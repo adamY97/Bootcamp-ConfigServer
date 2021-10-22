@@ -1,7 +1,7 @@
 server:
   port: 8081
 some:
-  value: valor por defecto
+  value: valor por defecto con cambio
 management:
   endpoints:
     web:
