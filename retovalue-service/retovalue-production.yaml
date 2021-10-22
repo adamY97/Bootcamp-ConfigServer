@@ -1,0 +1,9 @@
+server:
+  port: 8085
+some:
+  value: valor del servidor production
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

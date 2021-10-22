@@ -1,0 +1,9 @@
+server:
+  port: 8084
+some:
+  value: valor del servidor staging
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

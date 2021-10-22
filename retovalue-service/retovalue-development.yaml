@@ -1,0 +1,9 @@
+server:
+  port: 8082
+some:
+  value: valor del servidor development
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
